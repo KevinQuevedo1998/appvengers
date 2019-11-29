@@ -1,5 +1,5 @@
 # appvengers
-Kevin Alonso Quevedo de la Cruz 
-Jorge Luis Galvez Blanco
-Jennifer Abril Navidad Juarez
-Luis Gerardo Vizca Renteria 
+KEVIN ALONSO QUEVEDO DE LA CRUZ
+JORGE LUIS GALVEZ BLANCO
+JENNIFER ABRIL NAVIDAD JUAREZ
+LUIS GERARDO VISCO RENTERIA
